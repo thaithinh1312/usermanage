@@ -1,0 +1,11 @@
+5000000,Thinh,Thai,thaithinh1312,Hihi123123,Student,Reserve,false,CSIT121,Business and IT,13,65,Smith,CBD,Sydney,NSW,2500
+5000001,Miroslav,Stoyanov,mirostoya22,haha234,Student,Reserve,true,CSIT121,Japanese study,13,65,Smith,haha,Sofia,QLD,2500
+5000002,Vien,Nguyen,vienng123,hiha123,Student,Reserve,true,CSIT121,Business and Information System,13,65,Smith,CBD,Wollongong,TAS,2500
+5000003,Mariane,Enriquez,mari123,hohe123,Student,Reserve,true,CSIT121,Literature,13,65,Smith,CBD,Wollongong,VIC,2500
+5000004,Hoang,Mai,hoamai123,bngoc123,PostStudent,Reserve,true,CSIT121,Finance,13,65,Smith,CBD,Wollongong,TAS,2500
+5000005,Thinh,Nguyen,nguyenthinh1312,hihi123,Student,Reserve,true,CSIT121,Bachelor of Business,13,65,Smith,CBD,Wollongong,NSW,2500
+5000006,Desi,Stoyanov,desistoya22,haha234,Student,Reserve,true,CSIT121,Japanese study,13,65,Smith,CBD,Wollongong,VIC,2500
+5000007,Hang,Nguyen,hangng123,hiha123,Student,Reserve,true,CSIT121,Marketing,13,65,Smith,CBD,Wollongong,SA,2500
+5000008,Mariane,Hernandez,mari234,hohe123,Student,Reserve,true,CSIT121,Literature,13,65,Smith,CBD,Wollongong,WA,2500
+5000009,Hoang,Man,hoaman123,bngoc123,PostStudent,Reserve,true,CSIT121,Finance,13,65,Smith,CBD,Wollongong,NSW,2500
+5123123,Timothy,Snow,timothy123,hihi123123,PostStudent,Reserve,true,CSIT211,Business Information System,0,12, 123, 123,123,NSW,123
